@@ -26,12 +26,6 @@ root/
 ```bash
 cp .env.example .env
 ```
-Then open `.env` and replace the placeholder with your actual MongoDB connection string:
-```
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/neuralnexas
-JWT_SECRET=any-long-random-secret
-PORT=8080
-```
 
 > **Get a free MongoDB URI** — create a free cluster at [mongodb.com/atlas](https://cloud.mongodb.com)  
 > Click Connect → Drivers → copy the connection string
