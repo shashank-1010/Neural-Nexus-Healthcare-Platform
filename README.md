@@ -44,7 +44,7 @@ This starts both the backend and frontend simultaneously.
 
 | Service  | URL                    |
 |----------|------------------------|
-| Frontend | http://localhost:3000  |
+| Frontend | http://localhost:5000  |
 | Backend  | http://localhost:8080  |
 
 ---
